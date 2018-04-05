@@ -82,7 +82,8 @@ fi
                    else 
                    echo "Uknown arguments, please check the help:[initdev1.bash -help]" ;
                  fi
-           else
+
+
             echo "rm Expected arguments, please check the help : [initdev1.bash –help]";
          fi 
 
